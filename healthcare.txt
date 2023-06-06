@@ -1,0 +1,256 @@
+UNH
+	UnitedHealth Group Incorporated	487.24	+7.39	+1.54%	4.504M	3.016M	453.636B	22.27	
+LLY
+	Eli Lilly and Company	429.46	+2.22	+0.52%	3.612M	3.303M	407.675B	68.39	
+JNJ
+	Johnson & Johnson	155.06	+0.69	+0.45%	10.599M	7.256M	402.959B	32.51	
+NVO
+	Novo Nordisk A/S	160.46	+0.65	+0.41%	837,773	1.429M	361.298B	41.36	
+MRK
+	Merck & Co., Inc.	110.41	+1.24	+1.14%	13.574M	7.525M	280.159B	21.78	
+ABBV
+	AbbVie Inc.	137.96	+1.52	+1.11%	12.318M	5.853M	243.401B	32.54	
+PFE
+	Pfizer Inc.	38.02	+1.01	+2.73%	43.784M	24.581M	214.635B	7.50	
+NVS
+	Novartis AG	96.25	-0.30	-0.31%	3.574M	2.167M	204.012B	29.52	
+TMO
+	Thermo Fisher Scientific Inc.	508.46	-5.76	-1.12%	3.853M	1.395M	196.124B	33.19	
+ABT
+	Abbott Laboratories	102.00	+0.29	+0.29%	5.748M	5.222M	177.373B	31.00	
+DHR
+	Danaher Corporation	229.62	+2.44	+1.07%	8.547M	3.139M	169.436B	24.72	
+BMY
+	Bristol-Myers Squibb Company	64.44	+0.73	+1.15%	10.278M	8.125M	135.379B	18.79	
+MDT
+	Medtronic plc	82.76	+0.26	+0.32%	7.646M	6.12M	110.138B	29.35	
+ELV
+	Elevance Health, Inc.	447.82	+6.09	+1.38%	2.001M	1.121M	106.158B	17.60	
+SYK
+	Stryker Corporation	275.58	+4.09	+1.51%	2.437M	1.291M	104.612B	40.11	
+CVS
+	CVS Health Corporation	68.03	+0.88	+1.31%	11.79M	8.547M	87.216B	22.60	
+ZTS
+	Zoetis Inc.	163.01	+2.07	+1.29%	5.314M	1.915M	75.329B	36.80	
+BSX
+	Boston Scientific Corporation	51.48	+0.99	+1.96%	13.759M	9.349M	74.013B	87.25	
+CI
+	The Cigna Group	247.41	+4.77	+1.97%	3.107M	1.861M	73.202B	11.34	
+HCA
+	HCA Healthcare, Inc.	264.19	+0.01	+0.00%	1.837M	1.276M	72.676B	13.30	
+GSK
+	GSK plc	33.60	-0.26	-0.77%	3.318M	2.899M	69.326B	12.49	
+BDX
+	Becton, Dickinson and Company	241.76	+3.37	+1.41%	1.867M	1.07M	68.663B	44.44	
+HUM
+	Humana Inc.	501.87	+6.77	+1.37%	1.429M	904,130	62.706B	20.37	
+MCK
+	McKesson Corporation	390.84	+7.11	+1.85%	1.988M	1.015M	52.999B	15.60	
+EW
+	Edwards Lifesciences Corporation	84.23	+2.82	+3.46%	4.849M	3.014M	51.062B	35.24	
+TAK
+	Takeda Pharmaceutical Company Limited	15.84	-0.24	-1.49%	2.472M	2.354M	49.522B	22.00	
+ALC
+	Alcon Inc.	77.39	-0.80	-1.02%	989,099	1.265M	38.217B	113.81	
+HLN
+	Haleon plc	8.04	-0.03	-0.37%	2.183M	4.91M	37.123B	27.72	
+IQV
+	IQVIA Holdings Inc.	196.91	-1.74	-0.88%	1.414M	1.21M	36.536B	35.87	
+ABC
+	AmerisourceBergen Corporation	170.15	+4.14	+2.49%	4.78M	1.232M	34.4B	21.84	
+CNC
+	Centene Corporation	62.41	+0.43	+0.69%	7.163M	3.478M	34.249B	23.64	
+A
+	Agilent Technologies, Inc.	115.67	-2.06	-1.75%	3.156M	1.729M	34.166B	25.48	
+RMD
+	ResMed Inc.	210.79	+0.81	+0.39%	3.368M	590,915	30.972B	35.97	
+MTD
+	Mettler-Toledo International Inc.	1,321.87	+7.15	+0.54%	187,898	98,522	29.108B	33.45	
+ZBH
+	Zimmer Biomet Holdings, Inc.	127.34	+0.91	+0.72%	5.64M	1.351M	26.716B	59.50	
+VEEV
+	Veeva Systems Inc.	165.70	+2.04	+1.25%	1.947M	990,673	26.543B	55.05	
+WST
+	West Pharmaceutical Services, Inc.	334.63	-1.72	-0.51%	902,788	445,930	24.844B	45.84	
+CAH
+	Cardinal Health, Inc.	82.30	+0.97	+1.19%	4.644M	2.21M	20.954B	48.41	
+BAX
+	Baxter International Inc.	40.72	+0.39	+0.97%	10.725M	5.915M	20.598B	N/A	
+STE
+	STERIS plc	199.97	+0.42	+0.21%	609,199	464,655	19.727B	185.16	
+LH
+	Laboratory Corporation of America Holdings	212.53	+0.60	+0.28%	829,127	582,590	18.83B	19.10	
+COO
+	The Cooper Companies, Inc.	371.53	+3.33	+0.90%	1.034M	299,280	18.374B	49.27	
+PHG
+	Koninklijke Philips N.V.	18.88	-0.68	-3.48%	1.15M	1.462M	17.373B	N/A	
+MOH
+	Molina Healthcare, Inc.	273.90	+4.04	+1.50%	1.063M	502,274	15.968B	18.38	
+DGX
+	Quest Diagnostics Incorporated	132.65	-1.23	-0.92%	1.399M	1.113M	14.858B	19.42	
+WAT
+	Waters Corporation	251.22	-4.35	-1.70%	942,246	490,173	14.83B	22.29	
+RVTY
+	Revvity, Inc.	115.32	-0.90	-0.77%	764,141	798,658	14.466B	41.19	
+SNN
+	Smith & Nephew plc	29.90	-0.09	-0.30%	821,845	965,819	13.103B	58.63	
+FMS
+	Fresenius Medical Care AG & Co. KGaA	21.43	-0.04	-0.19%	420,965	765,482	12.826B	19.48	
+PEN
+	Penumbra, Inc.	307.34	-3.39	-1.09%	250,192	350,549	11.757B	1,920.88	
+BIO
+	Bio-Rad Laboratories, Inc.	373.35	-6.41	-1.69%	284,702	192,836	11.025B	N/A	
+TFX
+	Teleflex Incorporated	234.75	+2.69	+1.16%	369,394	310,403	11.027B	30.57	
+QGEN
+	Qiagen N.V.	45.16	-0.13	-0.29%	1.052M	820,484	10.298B	29.32	
+CRL
+	Charles River Laboratories International, Inc.	193.38	-2.67	-1.36%	593,940	566,687	9.898B	19.77	
+RDY
+	Dr. Reddy's Laboratories Limited	55.19	+0.71	+1.30%	284,745	244,136	9.213B	16.88	
+UHS
+	Universal Health Services, Inc.	132.13	+0.97	+0.74%	754,153	673,152	9.273B	14.04	
+INSP
+	Inspire Medical Systems, Inc.	292.49	-0.92	-0.31%	314,352	363,609	8.533B	N/A	
+DVA
+	DaVita Inc.	93.67	+1.25	+1.35%	1.002M	669,117	8.496B	17.88	
+TEVA
+	Teva Pharmaceutical Industries Limited	7.20	-0.01	-0.14%	19.574M	12.217M	8.302B	N/A	
+AGL
+	agilon health, inc.	19.88	-0.37	-1.83%	4.153M	3.688M	8.247B	N/A	
+CHE
+	Chemed Corporation	533.77	+4.32	+0.82%	87,452	65,287	8.017B	33.61	
+ATR
+	AptarGroup, Inc.	112.49	-0.87	-0.77%	322,329	216,390	7.371B	32.32	
+THC
+	Tenet Healthcare Corporation	71.20	+0.82	+1.17%	1.053M	1.462M	7.258B	18.54	
+STVN
+	Stevanato Group S.p.A.	26.91	+0.32	+1.20%	376,991	295,741	7.123B	45.61	
+CTLT
+	Catalent, Inc.	37.23	+0.81	+2.22%	3.442M	4.273M	6.705B	16.55	
+BLCO
+	Bausch + Lomb Corporation	17.86	+0.11	+0.62%	333,774	388,661	6.256B	N/A	
+EHC
+	Encompass Health Corporation	62.02	+0.89	+1.46%	637,116	830,357	6.217B	22.15	
+DOCS
+	Doximity, Inc.	30.67	+0.06	+0.20%	1.74M	1.428M	5.97B	58.98	
+GMED
+	Globus Medical, Inc.	54.13	+1.52	+2.89%	1.534M	1.424M	5.539B	27.07	
+NVST
+	Envista Holdings Corporation	31.89	-1.09	-3.31%	4.167M	1.934M	5.22B	26.57	
+OGN
+	Organon & Co.	19.39	+0.12	+0.62%	2.563M	2.087M	4.946B	6.64	
+PRGO
+	Perrigo Company plc	31.96	+0.36	+1.14%	1.286M	1.165M	4.325B	N/A	
+HAE
+	Haemonetics Corporation	84.60	+1.16	+1.39%	306,578	302,422	4.276B	37.27	
+ELAN
+	Elanco Animal Health Incorporated	8.15	+0.07	+0.87%	34.537M	8.404M	4.014B	N/A	
+TDOC
+	Teladoc Health, Inc.	23.15	+0.73	+3.26%	3.944M	3.588M	3.789B	N/A	
+AMN
+	AMN Healthcare Services, Inc.	94.96	-1.47	-1.52%	625,678	703,042	3.765B	10.72	
+CNMD
+	CONMED Corporation	121.30	+2.82	+2.38%	301,513	380,020	3.709B	N/A	
+SEM
+	Select Medical Holdings Corporation	27.37	+0.04	+0.15%	476,458	547,060	3.479B	19.27	
+DNA
+	Ginkgo Bioworks Holdings, Inc.	1.5800	-0.1500	-8.67%	24.612M	20.104M	3.295B	N/A	
+EVH
+	Evolent Health, Inc.	29.14	+0.67	+2.35%	1.076M	932,212	3.283B	N/A	
+BHC
+	Bausch Health Companies Inc.	8.21	+0.02	+0.24%	2.273M	3.676M	3.008B	N/A	
+PBH
+	Prestige Consumer Healthcare Inc.	57.23	-0.77	-1.33%	209,783	246,457	2.844B	N/A	
+GKOS
+	Glaukos Corporation	57.02	+1.39	+2.50%	587,406	394,412	2.749B	N/A	
+ITGR
+	Integer Holdings Corporation	81.86	-0.10	-0.12%	215,104	301,196	2.724B	40.73	
+AGTI
+	Agiliti, Inc.	16.37	-0.89	-5.16%	286,895	230,874	2.201B	163.70	
+PHR
+	Phreesia, Inc.	30.02	+0.20	+0.67%	903,565	423,803	1.609B	N/A	
+OSCR
+	Oscar Health, Inc.	7.34	+0.30	+4.26%	2.863M	3.586M	1.603B	N/A	
+OMI
+	Owens & Minor, Inc.	20.31	+0.81	+4.15%	742,707	943,836	1.548B	N/A	
+RCUS
+	Arcus Biosciences, Inc.	20.54	+0.28	+1.38%	1.349M	1.035M	1.502B	N/A	
+FNA
+	Paragon 28, Inc.	17.98	+0.27	+1.52%	418,018	334,065	1.48B	N/A	
+TARO
+	Taro Pharmaceutical Industries Ltd.	36.91	+0.81	+2.24%	75,787	25,598	1.387B	53.49	
+USPH
+	U.S. Physical Therapy, Inc.	102.15	+2.47	+2.48%	223,794	112,782	1.334B	47.29	
+WRBY
+	Warby Parker Inc.	11.01	-0.53	-4.59%	1.026M	1.12M	1.279B	N/A	
+BHVN
+	Biohaven Ltd.	17.51	+1.23	+7.56%	2.655M	911,849	1.195B	N/A	
+AVNS
+	Avanos Medical, Inc.	24.50	+0.55	+2.30%	223,201	270,582	1.143B	24.75	
+MD
+	Pediatrix Medical Group, Inc.	13.30	-0.01	-0.08%	532,689	627,622	1.114B	11.47	
+NVRO
+	Nevro Corp.	27.56	+1.52	+5.84%	518,683	553,106	987.122M	344.50	
+MPLN
+	MultiPlan Corporation	1.3900	+0.0500	+3.73%	1.485M	1.796M	907.446M	N/A	
+CANO
+	Cano Health, Inc.	1.3600	+0.1000	+7.94%	3.214M	5.232M	729.057M	N/A	
+AMRX
+	Amneal Pharmaceuticals, Inc.	2.3400	-0.0500	-2.09%	2.382M	995,580	714.762M	N/A	
+BKD
+	Brookdale Senior Living Inc.	3.4500	+0.0200	+0.58%	1.783M	2.133M	649.338M	N/A	
+AMWL
+	American Well Corporation	2.2100	0.0000	0.00%	1.289M	1.377M	620.721M	N/A	
+AORT
+	Artivion, Inc.	14.98	+0.09	+0.60%	183,481	147,807	612.313M	N/A	
+EHAB
+	Enhabit, Inc.	10.76	-0.08	-0.74%	672,421	563,304	539.074M	N/A	
+BFLY
+	Butterfly Network, Inc.	2.4400	+0.0600	+2.52%	2.533M	3.15M	497.592M	N/A	
+CYH
+	Community Health Systems, Inc.	3.2700	+0.0700	+2.19%	1.403M	1.834M	447.182M	N/A	
+EBS
+	Emergent BioSolutions Inc.	8.53	+0.31	+3.77%	1.028M	1.799M	430.321M	N/A	
+CO
+	Global Cord Blood Corporation	2.9876	0.0000	0.00%	0	0	400.084M	5.06	
+NUVB
+	Nuvation Bio Inc.	1.6200	+0.0500	+3.18%	528,462	537,330	356.082M	N/A	
+NVTA
+	Invitae Corporation	1.0700	+0.0200	+1.90%	10.16M	7.744M	278.922M	N/A	
+RBOT
+	Vicarious Surgical Inc.	2.1000	+0.0100	+0.48%	116,895	346,787	266.482M	N/A	
+ADCT
+	ADC Therapeutics SA	2.3500	+0.0700	+3.07%	139,308	603,358	189.51M	N/A	
+ANVS
+	Annovis Bio, Inc.	13.10	+0.38	+2.99%	17,480	85,371	117.967M	N/A	
+ENZ
+	Enzo Biochem, Inc.	2.2000	-0.0800	-3.51%	143,883	855,423	109.402M	N/A	
+RAD
+	Rite Aid Corporation	1.7900	0.0000	0.00%	1.362M	2.507M	101.005M	N/A	
+BHG
+	Bright Health Group, Inc.	9.26	0.00	0.00%	217,542	199,120	73.634M	N/A	
+SONX
+	Sonendo, Inc.	1.2700	+0.0200	+1.60%	55,295	138,071	65.137M	N/A	
+CCM
+	Concord Medical Services Holdings Limited	1.3600	0.0000	0.00%	621	1,763	59.047M	N/A	
+SNDA
+	Sonida Senior Living, Inc.	8.28	+1.08	+15.00%	9,072	8,350	58.584M	N/A	
+ATIP
+	ATI Physical Therapy, Inc.	0.1758	+0.0009	+0.51%	410,632	374,784	36.654M	N/A	
+VAPO
+	Vapotherm, Inc.	0.6100	-0.0101	-1.63%	83,484	103,952	28.194M	N/A	
+OWLT
+	Owlet, Inc.	0.2205	-0.0031	-1.39%	742,685	657,907	25.947M	N/A	
+UPH
+	UpHealth, Inc.	1.5200	-0.0700	-4.40%	8,038	28,414	25.512M	N/A	
+SQZ
+	SQZ Biotechnologies Company	0.5550	+0.0050	+0.91%	15,139	296,603	16.368M	N/A	
+BBLN
+	Babylon Holdings Limited	0.6343	-0.0356	-5.31%	359,810	634,328	16.247M	N/A	
+BSX-PA
+	Boston Scientific Corporation	122.18	+2.83	+2.37%	2.056M	169,869	N/A	230.53	
+BDXB
+	Becton, Dickinson and Company	48.16	+0.66	+1.39%	2.728M	418,552	N/A	7.60	
+BKDT
+	Brookdale Senior Living Inc	51.19	-1.11	-2.12%	100	2,730	N/A	N/A	

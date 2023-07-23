@@ -19,7 +19,7 @@ Analysis of the US and Canada.
 Gas Industry: A Panel Data Approach.  
 [4] Pew Research Center. (2014). The 2016 U.S. Presidential Election: Political Polarization
 and Media Habits.  
-[5] Federal Election Commission. (2020). The 2020 Election: The Official Results.
+[5] Federal Election Commission. (2020). The 2020 Election: The Official Results.  
 [6] Rice, J. A. (1986). Goodness-of-fit Techniques.  
 [7] Hollander, M., Wolfe, D. A., & Chicken, E. (2013). Nonparametric Statistical Methods.  
 [8] Shapiro, S. S., & Wilk, M. B. (1989). A Goodness-of-Fit Test for the Exponential
